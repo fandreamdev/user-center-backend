@@ -2,8 +2,8 @@ spring:
   application:
     name: user-center-backend
   datasource:
-    url: jdbc:mysql://localhost:3306/user_center
-    username: root
+    url: jdbc:mysql://106.54.23.126:3306/user_center
+    username: fandream
     password: 1qa2ws3ed
     driver-class-name: com.mysql.cj.jdbc.Driver
 server:

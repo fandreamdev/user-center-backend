@@ -1,3 +1,8 @@
 spring:
   application:
     name: user-center-backend
+  datasource:
+    url: jdbc:mysql://localhost:3306/user_center
+    username: root
+    password: 1qa2ws3ed
+    driver-class-name: com.mysql.cj.jdbc.Driver
